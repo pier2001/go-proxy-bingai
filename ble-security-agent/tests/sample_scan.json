@@ -1,0 +1,9 @@
+[
+  {"address": "C4:11:22:33:44:55", "name": "Tom's Smart Lock", "rssi": -48, "connectable": true, "tx_power": 8,
+   "service_uuids": ["6e400001-b5a3-f393-e0a9-e50e24dcca9e", "0000fe59-0000-1000-8000-00805f9b34fb"],
+   "manufacturer_data": {"89": "0102"},
+   "services": [{"uuid": "6e400001-b5a3-f393-e0a9-e50e24dcca9e", "characteristics": [
+     {"uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e", "properties": ["write", "write-without-response"]}]}]},
+  {"address": "4A:AA:BB:CC:DD:EE", "name": null, "rssi": -80, "service_uuids": [],
+   "manufacturer_data": {"76": "1005"}}
+]
